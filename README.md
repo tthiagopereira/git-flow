@@ -12,6 +12,7 @@ git flow init
 
 
 nova branch -> git flow feature start welcome
+finalizar branch ->  git flow feature finish welcome  
 
 ```
 
