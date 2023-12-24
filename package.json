@@ -1,0 +1,11 @@
+{
+  "name": "GITFLOW",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tthiagopereira/git-flow.git",
+  "author": "THIAGO PEREIRA DOS SANTOS <tthiagopereira7@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
