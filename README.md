@@ -13,7 +13,8 @@ git flow init
 
 nova branch -> git flow feature start welcome
 finalizar branch ->  git flow feature finish welcome  
-
+nova release git flow release start 0.1.0
+git flow release finish 0.1.0
 ```
 
 - pull requests / templates para PR
